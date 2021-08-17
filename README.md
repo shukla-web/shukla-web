@@ -28,7 +28,7 @@
 	<h2>Achievements</h2>
 		<p>Progress in this course (100%) <progress value = "100" max = "100"></progress><br>
 		Progress in the Specialization capstone (20%) <progress value = "20" max = "100"></progress><br>
-		Progress in life goals (10%) <progress value = "10" max = "100"></progress></p>
+		Progress in life goals (80%) <progress value = "10" max = "100"></progress></p>
 </section>
 <section class = "whole"> 
 	<h2>More About Me</h2>
